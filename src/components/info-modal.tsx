@@ -52,7 +52,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ darkMode, onClose }) => {
         <div className="space-y-4">
           <p>
             <strong>Italian Brainrot Memory Game</strong> is a daily challenge
-            memory game featuring silly Italian-sounding characters.
+            memory game featuring silly Italian brain-rot characters.
           </p>
 
           <p>
@@ -67,9 +67,9 @@ const InfoModal: React.FC<InfoModalProps> = ({ darkMode, onClose }) => {
           </p>
 
           <p>
-            <strong>Daily Challenge:</strong> Just like Wordle, everyone gets
-            the same set of characters each day, but their positions will be
-            different for each player.
+            <strong>Daily Challenge:</strong> Everyone gets the same set of
+            characters each day, but their positions will be different for each
+            player.
           </p>
 
           <p>
