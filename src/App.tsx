@@ -144,7 +144,7 @@ function App() {
           }
 
           dispatch({ type: ActionTypes.RESET_FLIPPED });
-        }, 2000); // Longer delay to ensure user sees both cards
+        }, 3000); // Longer delay to ensure user sees both cards
 
         return () => clearTimeout(nonMatchTimer);
       }
