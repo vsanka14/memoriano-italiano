@@ -83,7 +83,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ darkMode, onClose }) => {
               "text-gray-500": !darkMode,
             })}
           >
-            Created with ♥ by a lover of Italian nonsense sounds
+            Created with ♥ by beans4breakfast
           </div>
         </div>
       </div>

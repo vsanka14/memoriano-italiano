@@ -274,7 +274,7 @@ function App() {
               "text-3xl",
               "font-bold",
               "order-first w-full sm:order-none sm:w-auto",
-              "lg:ml-30 mb-2 sm:mb-0",
+              "mb-2 sm:mb-0",
               {
                 "text-pink-300": darkMode,
                 "text-pink-500": !darkMode,
