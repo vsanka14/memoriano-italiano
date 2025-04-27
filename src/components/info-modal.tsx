@@ -51,8 +51,8 @@ const InfoModal: React.FC<InfoModalProps> = ({ darkMode, onClose }) => {
 
         <div className="space-y-4">
           <p>
-            <strong>Italian Brainrot Memory Game</strong> is a daily challenge
-            memory game featuring silly Italian brain-rot characters.
+            <strong>Memoriano Italiano</strong> is a daily challenge memory game
+            featuring silly Italian brain-rot characters.
           </p>
 
           <p>

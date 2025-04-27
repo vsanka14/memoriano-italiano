@@ -327,7 +327,7 @@ function App() {
       </div>
 
       {/* Game Over Modal */}
-      {gameOver && (
+      {!gameOver && (
         <div className="fixed inset-0 z-50 flex items-center justify-center">
           <div className="absolute inset-0 backdrop-blur-sm bg-black/30"></div>
           <div className="z-10">
