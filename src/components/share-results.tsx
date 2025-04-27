@@ -36,8 +36,7 @@ const ShareResults: React.FC<ShareResultsProps> = ({
   const shareMessage = `🇮🇹 Memoriano Italiano #${getDailyGameNumber()} (${getTodayDateString()})
 ⏱️ Time: ${formatTime(time)}
 🎮 Moves: ${moves}
-🏆 Score: ${score}
-${getScoreEmojis()}
+🏆 Score: ${getScoreEmojis()}
 
 Play today's challenge: ${window.location.href}`;
 
